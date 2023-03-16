@@ -1,3 +1,5 @@
+Hello Everyone!!
+
 # MHC++ Intro to Git/GitHub Workshop
 
 In this workshop we will be going over the basics of Git and Github for Source/Versioning Control. We will cover the basics of creating a repository, adding and ignoring files, and making commits and pull requests.
